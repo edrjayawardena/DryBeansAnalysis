@@ -22,5 +22,5 @@
      - Gradient Boosting
 
 5. **Model Training and Evaluation**:
-   - Trained each model using the scaled training data and evaluated their performance on the testing data.
+   - Trained each model using the scaled training data and evaluated its performance on the testing data.
    - Collected train and test accuracy for each model.
